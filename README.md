@@ -7,7 +7,7 @@ Shall I compare thee to a creationist?
 While reading Anthony Flew's book 'There is a god', I came across yet another re-hashing of
 Gerald Schroeder's specious argument against evolution based on monkeys and typewriters.
 
-The argument, as presented (here)[http://www.geraldschroeder.com/ScientificMyths.aspx] refering
+The argument, as presented [here](http://www.geraldschroeder.com/ScientificMyths.aspx) refering
 to Shakespeare's 14th sonnet goes like this
 
 > ... All sonnets are 14 lines, all about the same length. This sonnet has approximately 488 letters
