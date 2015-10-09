@@ -38,5 +38,5 @@ Note
 ----
 
 This is not exactly the sonnet Shakespeare wrote. It has no punctuation, caps, or newlines. I was
-following Schroeders example with this, I just left the spaces in to make it more readable.
+following Schroeders example with this, I just left the spaces in to make it more readable. 
 
